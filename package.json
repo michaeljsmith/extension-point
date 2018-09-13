@@ -6,7 +6,15 @@
   "author": "Michael Smith <msmith@msmith.id.au> (http://msmith.id.au)",
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.0.1",
+    "@babel/preset-flow": "^7.0.0",
+    "flow-bin": "^0.80.0",
     "gulp": "^3.9.1",
-    "gulp-babel": "^8.0.0"
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github:michaeljsmith/extent"
   }
 }
