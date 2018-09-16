@@ -2,8 +2,8 @@
 
 const OpenObject = require('./OpenObject.js');
 
-var {describe, it} = require('mocha');
-var {assert} = require('chai');
+const {describe, it} = require('mocha');
+const {assert} = require('chai');
 
 class TestObject extends OpenObject<TestObject> {}
 
