@@ -1,9 +1,9 @@
 {
-  "name": "extent",
+  "name": "extension-point",
   "version": "0.1.1",
   "description": "Primitives for declaring extensible values (functions, records, sets etc).",
   "main": "lib/index.js",
-  "files": ["lib/**/*.js"],
+  "files": ["lib/**/*"],
   "author": "Michael Smith <msmith@msmith.id.au> (http://msmith.id.au)",
   "license": "MIT",
   "scripts": {
